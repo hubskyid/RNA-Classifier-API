@@ -1,0 +1,43 @@
+name: rna-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python version
+  - python=3.10
+  
+  # Essential conda packages only (faster installation)
+  - numpy=1.26.*
+  - pandas=2.2.*
+  - scikit-learn=1.4.*
+  - pip
+  
+  # All other packages via pip (faster installation)
+  - pip:
+    # Web frameworks
+    - gradio==4.15.0
+    - fastapi==0.109.0
+    - uvicorn[standard]==0.27.0
+    - pydantic==2.5.3
+    
+    # API and async tools
+    - requests==2.31.0
+    - httpx==0.26.0
+    - aiofiles==23.2.1
+    
+    # Visualization
+    - matplotlib==3.8.2
+    - seaborn==0.13.2
+    - plotly==5.18.0
+    - pillow==10.2.0
+    
+    # ML and Vector database
+    - torch==2.1.2
+    - torchvision==0.16.2
+    - chromadb==0.4.22
+    - sentence-transformers==2.2.2
+    
+    # Utilities
+    - python-dotenv==1.0.0
+    - jupyterlab==4.0.10
+    - biopython==1.83
