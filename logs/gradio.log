@@ -45,3 +45,22 @@
 {"timestamp": "2025-09-30T10:32:33.233510", "level": "INFO", "logger": "gradio", "message": "Calling similarity search with: sequence=CGUCUUAAACUCAUCACCGU..., top_k=20, threshold=0", "module": "app", "function": "analyze_rna_sequence", "line": 57}
 {"timestamp": "2025-09-30T10:33:45.159422", "level": "INFO", "logger": "gradio", "message": "Analyzing RNA sequence: UCAGUCGGCCGGACGGCCGC... (length: 431)", "module": "app", "function": "analyze_rna_sequence", "line": 41}
 {"timestamp": "2025-09-30T10:33:47.218265", "level": "INFO", "logger": "gradio", "message": "Calling similarity search with: sequence=UCAGUCGGCCGGACGGCCGC..., top_k=20, threshold=0", "module": "app", "function": "analyze_rna_sequence", "line": 57}
+{"timestamp": "2025-10-05T05:39:51.688516", "level": "INFO", "logger": "gradio", "message": "API Client initialized with base URL: http://localhost:5000", "module": "api_client", "function": "__init__", "line": 26}
+{"timestamp": "2025-10-05T05:39:51.812380", "level": "INFO", "logger": "gradio", "message": "Starting Gradio app on 127.0.0.1:7860", "module": "app", "function": "launch_app", "line": 424}
+{"timestamp": "2025-10-05T05:39:51.812876", "level": "INFO", "logger": "gradio", "message": "Share: False, Debug: True", "module": "app", "function": "launch_app", "line": 425}
+{"timestamp": "2025-10-05T05:39:51.812876", "level": "INFO", "logger": "gradio", "message": "API URL: http://localhost:5000", "module": "app", "function": "launch_app", "line": 426}
+{"timestamp": "2025-10-05T05:39:54.190219", "level": "INFO", "logger": "gradio", "message": "API server is healthy: healthy", "module": "app", "function": "launch_app", "line": 432}
+{"timestamp": "2025-10-05T06:34:39.838806", "level": "INFO", "logger": "gradio", "message": "API Client initialized with base URL: http://localhost:5000", "module": "api_client", "function": "__init__", "line": 26}
+{"timestamp": "2025-10-05T06:34:40.010846", "level": "INFO", "logger": "gradio", "message": "Starting Gradio app on 127.0.0.1:7860", "module": "app", "function": "launch_app", "line": 424}
+{"timestamp": "2025-10-05T06:34:40.011330", "level": "INFO", "logger": "gradio", "message": "Share: False, Debug: True", "module": "app", "function": "launch_app", "line": 425}
+{"timestamp": "2025-10-05T06:34:40.011330", "level": "INFO", "logger": "gradio", "message": "API URL: http://localhost:5000", "module": "app", "function": "launch_app", "line": 426}
+{"timestamp": "2025-10-05T06:34:42.312954", "level": "INFO", "logger": "gradio", "message": "API server is healthy: healthy", "module": "app", "function": "launch_app", "line": 432}
+{"timestamp": "2025-10-05T06:34:57.916421", "level": "INFO", "logger": "gradio", "message": "Analyzing RNA sequence: CGUCUUAAACUCAUCACCGU... (length: 56)", "module": "app", "function": "analyze_rna_sequence", "line": 41}
+{"timestamp": "2025-10-05T06:34:59.962974", "level": "INFO", "logger": "gradio", "message": "Calling similarity search with: sequence=CGUCUUAAACUCAUCACCGU..., top_k=20, threshold=0", "module": "app", "function": "analyze_rna_sequence", "line": 57}
+{"timestamp": "2025-10-05T09:30:52.648404", "level": "INFO", "logger": "gradio", "message": "API Client initialized with base URL: http://localhost:5000", "module": "api_client", "function": "__init__", "line": 26}
+{"timestamp": "2025-10-05T09:30:52.818356", "level": "INFO", "logger": "gradio", "message": "Starting Gradio app on 127.0.0.1:7860", "module": "app", "function": "launch_app", "line": 424}
+{"timestamp": "2025-10-05T09:30:52.818356", "level": "INFO", "logger": "gradio", "message": "Share: False, Debug: True", "module": "app", "function": "launch_app", "line": 425}
+{"timestamp": "2025-10-05T09:30:52.818356", "level": "INFO", "logger": "gradio", "message": "API URL: http://localhost:5000", "module": "app", "function": "launch_app", "line": 426}
+{"timestamp": "2025-10-05T09:30:55.209856", "level": "INFO", "logger": "gradio", "message": "API server is healthy: healthy", "module": "app", "function": "launch_app", "line": 432}
+{"timestamp": "2025-10-05T09:42:45.563416", "level": "INFO", "logger": "gradio", "message": "Analyzing RNA sequence: CGUCUUAAACUCAUCACCGU... (length: 56)", "module": "app", "function": "analyze_rna_sequence", "line": 41}
+{"timestamp": "2025-10-05T09:42:47.630307", "level": "INFO", "logger": "gradio", "message": "Calling similarity search with: sequence=CGUCUUAAACUCAUCACCGU..., top_k=20, threshold=0", "module": "app", "function": "analyze_rna_sequence", "line": 57}
