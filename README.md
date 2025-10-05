@@ -10,10 +10,11 @@ This is the capstone project of group ST-216 for semester 2, 2025. This classifi
 - Tung Le Hoang (s3979121)
 
 ## Instructions to run:
-Ensure Python is installed. Required modules can be found in `requirements.txt`.
+Ensure Python is installed. Required modules can be found in `requirements.txt` as well as environment configuration in the `.yml` file.
 
 **To run the API:**
 `fastapi dev main.py --port 5000`
 
 **To run the web application:**
 `python -m gradio_app.app`
+
